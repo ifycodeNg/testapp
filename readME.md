@@ -56,6 +56,6 @@ Request Body
 
 
 3️⃣ Fetch All Users
-Endpoint: GET /users
+Endpoint: GET /getusers
 Headers:
 Authorization: Bearer <your_jwt_token>
